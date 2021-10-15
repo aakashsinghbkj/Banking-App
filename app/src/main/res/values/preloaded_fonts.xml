@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/arbutus</item>
+        <item>@font/archivo_black</item>
+        <item>@font/armata</item>
+        <item>@font/asset</item>
+        <item>@font/averia_serif_libre_light</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/cutive</item>
+        <item>@font/stalinist_one</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_light</item>
+        <item>@font/ubuntu_mono</item>
+        <item>@font/unlock</item>
+    </array>
+</resources>
